@@ -1,16 +1,19 @@
-# crud
+# ToDo APP
 
-A new Flutter project.
+A Simple flutter project to understand Hive.
 
-## Getting Started
+## More
 
-This project is a starting point for a Flutter application.
+- Simple app to add, check, and delete daily to-do activities.
+- Used Hive Database to manage data.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter_slidable: ^3.0.0
+- hive: ^2.2.3
+- hive_flutter: ^1.1.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dev Dependencies Used
+
+- hive_generator: ^2.0.1
+- build_runner: ^2.4.6
